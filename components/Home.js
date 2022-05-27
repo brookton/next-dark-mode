@@ -36,9 +36,9 @@ const Home = ({dark}) => {
     </p>
     <p>
       View the source for this{' '}
-      <a href="https://github.com/brookton">demo app</a> or see the
+      <a href="https://next-dark-mode-nu.vercel.app">demo app</a> or see the
       {' '}
-      <a href="https://github.com/brookton">
+      <a href="https://github.com/brookton/next-dark-mode">
         source code on Github
       </a>
       .{' '}

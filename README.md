@@ -1,4 +1,4 @@
-# Dark Mode with Next JS & Styled Components 📰
+# Dark Mode with Next JS 📰
 
 A simple implementation of a dark mode toggle in a [NextJS](https://nextjs.org) application using [styled-components](https://styled-components.com)
 

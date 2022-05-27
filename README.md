@@ -4,8 +4,8 @@ A simple implementation of a dark mode toggle in a [NextJS](https://nextjs.org) 
 
 # Demo 🖥
 
-[Click here for the live demo of V2]()
-[Click here for the live demo of V1]()
+- [Click here for the live demo of V2](https://next-dark-mode-nu.vercel.app)
+- [Click here for the live demo of V1](https://next-dark-mode-nu.vercel.app/v1)
 
 
 ## Screenshots 📷
